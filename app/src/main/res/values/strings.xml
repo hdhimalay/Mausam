@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mausam</string>
+    <string name="location">Location</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="search_location">Search Location</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="_5_00_am">5:00 am</string>
+    <string name="last_update">Last Update:</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="_5_00_pm">5:00 am</string>
+    <string name="created">Created</string>
+    <string name="wind">Wind</string>
+    <string name="sunset">Sunset</string>
+    <string name="_22_c">22°C</string>
+    <string name="feels_like">Feels like</string>
+</resources>
